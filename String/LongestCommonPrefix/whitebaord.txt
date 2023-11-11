@@ -1,0 +1,9 @@
+   ["flower","flow","flight"]
+
+1. Sort the array using Arrays.Sort
+   ["flow", "flower", flight]
+
+2. i = 0
+   toCharArray
+
+(((())))

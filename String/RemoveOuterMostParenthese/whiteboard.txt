@@ -1,0 +1,9 @@
+Stack  = []
+
+Input: s = "(()())(())(()(()))"
+Output: "()()()()(())"
+
+I came up with the two variable logic 
+
+openCurl 
+closeCurl

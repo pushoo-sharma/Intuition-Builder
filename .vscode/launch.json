@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "queue",
+            "request": "launch",
+            "mainClass": "String.RotateString.queue",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "String.RotateString.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "String.largestOddNumber.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "String.ReverseWordString.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "String.RemoveOuterMostParenthese.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "upperBound",
+            "request": "launch",
+            "mainClass": "BinarySearch.UpperBound.upperBound",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "lowerBound",
+            "request": "launch",
+            "mainClass": "BinarySearch.LowerBound.lowerBound",
+            "projectName": "Intuition-Builder_d478e93e"
+        }
+    ]
+}

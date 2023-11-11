@@ -1,0 +1,19 @@
+1. length of s and goal should be equal
+2. 
+   Hint: Consider using the fact that a rotation of a string is essentially a combination of
+    two substrings of the original string. You can concatenate the original string
+    with itself (e.g., s + s) and then check if goal is a substring of the concatenated string.
+
+
+Other 
+
+Initialize the Queue: Initially, enqueue the original string s into the queue.
+
+Perform Shifts: In each iteration, dequeue a string from the front of the queue and 
+check if it matches the goal. If it does, return true because s can become goal after some number of shifts.
+
+Enqueue Rotations: If the current string does not match the goal, enqueue all possible rotations
+of the string by performing one shift at a time. Enqueue these rotated strings back into the queue for further exploration.
+
+Repeat Until Goal is Found or Queue is Empty: Keep repeating steps 2 and 3 until either you find
+a string that matches the goal, or the queue becomes empty.

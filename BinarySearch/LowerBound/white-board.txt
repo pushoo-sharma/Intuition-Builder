@@ -1,0 +1,22 @@
+Greater or equal to arr[index] >= x
+
+[3 , 5, 8, 15, 19, 19, 19] = Array
+[0, 1, 2, 3, 4, 5, 6, 7]   = Index
+
+Example 
+
+1. 8 then my index is 2
+2. 19 the my index is 5
+3. 9 then my index is 2
+
+
+Explain
+
+[3 , 5, 8, 15, 19, 19, 19]
+x = 9
+return 3
+
+
+
+
+
