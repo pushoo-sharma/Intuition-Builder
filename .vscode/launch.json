@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "String.Medium.SortCharaFrequency.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "BinarySearch.SearchInsertPosition.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
             "name": "queue",
             "request": "launch",
             "mainClass": "String.RotateString.queue",
