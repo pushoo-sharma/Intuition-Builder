@@ -20,7 +20,9 @@ public class index {
     public static void main(String args[]) {
 
         int[] arr = {1,2,4,7};
+
         int value = 6;
+        
         System.out.println(binarySearchInsert(arr, value, 0, arr.length - 1, arr.length));
 
     }

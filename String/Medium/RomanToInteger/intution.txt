@@ -1,0 +1,17 @@
+I represents 1
+V represents 5
+X represents 10
+L represents 50
+C represents 100
+D represents 500
+M represents 1000
+
+
+Roman numerals are usually written largest to smallest from left to right. However, there are some exceptions, such as when a smaller numeral appears before a larger one. In such cases, you subtract the smaller numeral from the larger one. For example:
+
+IV represents 4 (5 - 1)
+IX represents 9 (10 - 1)
+XL represents 40 (50 - 10)
+XC represents 90 (100 - 10)
+CD represents 400 (500 - 100)
+CM represents 900 (1000 - 100)
