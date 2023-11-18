@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bruteForce",
+            "request": "launch",
+            "mainClass": "String.CountKDifferent.bruteForce",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "indexTwo",
+            "request": "launch",
+            "mainClass": "String.CountKDifferent.indexTwo",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "String.CountKDifferent.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
             "name": "index",
             "request": "launch",
             "mainClass": "String.Medium.StringtoInt.index",
