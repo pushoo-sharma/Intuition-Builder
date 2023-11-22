@@ -1,4 +1,4 @@
-package String.CountKDifferent;
+package String.Medium.CountKDifferent;
 
 import java.util.Arrays;
 

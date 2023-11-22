@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "String.Medium.LongestPalindrome.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "String.LongestPalindrome.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
             "name": "bruteForce",
             "request": "launch",
             "mainClass": "String.CountKDifferent.bruteForce",
