@@ -8,6 +8,20 @@
             "type": "java",
             "name": "index",
             "request": "launch",
+            "mainClass": "String.Medium.ReverseEveryString.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "String.Medium.SumOfBeauty.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
             "mainClass": "String.Medium.LongestPalindrome.index",
             "projectName": "Intuition-Builder_d478e93e"
         },
