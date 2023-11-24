@@ -8,6 +8,13 @@
             "type": "java",
             "name": "index",
             "request": "launch",
+            "mainClass": "BinarySearch.SearchInSortedArrayOne.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
             "mainClass": "BinarySearch.FirstAndLastOccurenceSorted.index",
             "projectName": "Intuition-Builder_d478e93e"
         },
