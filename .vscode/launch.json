@@ -8,6 +8,34 @@
             "type": "java",
             "name": "index",
             "request": "launch",
+            "mainClass": "SlidingWindow.LongestRepeating.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "SlidingWindow.FruitsAndBasket.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "SlidingWindow.MaximumConOne.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "SlidingWindow.LongestSubstring.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
             "mainClass": "BinarySearch.PeakElementInArray.index",
             "projectName": "Intuition-Builder_d478e93e"
         },
