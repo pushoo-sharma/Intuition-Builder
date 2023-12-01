@@ -8,6 +8,20 @@
             "type": "java",
             "name": "index",
             "request": "launch",
+            "mainClass": "SlidingWindow.CountNumberNiceSubArrays.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "SlidingWindow.BinarySubArrayWithSum.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
             "mainClass": "SlidingWindow.SubArrayEqualsK.index",
             "projectName": "Intuition-Builder_d478e93e"
         },
