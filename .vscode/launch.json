@@ -8,6 +8,41 @@
             "type": "java",
             "name": "index",
             "request": "launch",
+            "mainClass": "Recursion.SortStack.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "Recursion.CountGoodNumber.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "Recursion.Pow.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "Recursion.StrongHold.index",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Intuition-Builder_d478e93e"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
             "mainClass": "SlidingWindow.MaxPoint.index",
             "projectName": "Intuition-Builder_d478e93e"
         },
