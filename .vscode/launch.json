@@ -1,336 +1,50 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "countSub",
-            "request": "launch",
-            "mainClass": "Recursion.Subsequences.SumEqualToK.countSub",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "returnOne",
-            "request": "launch",
-            "mainClass": "Recursion.Subsequences.SumEqualToK.returnOne",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "Recursion.Subsequences.SumEqualToK.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "Recursion.Subsequences.Subset.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "Recursion.Subsequences.GenerateParanthesis.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "Recursion.ReverseStack.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "Recursion.SortStack.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "Recursion.CountGoodNumber.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "Recursion.Pow.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "Recursion.StrongHold.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "test",
-            "request": "launch",
-            "mainClass": "test",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "SlidingWindow.MaxPoint.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "SlidingWindow.CountNumberNiceSubArrays.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "SlidingWindow.BinarySubArrayWithSum.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "SlidingWindow.SubArrayEqualsK.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "SlidingWindow.LongestRepeating.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "SlidingWindow.FruitsAndBasket.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "SlidingWindow.MaximumConOne.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "SlidingWindow.LongestSubstring.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "BinarySearch.PeakElementInArray.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "BinarySearch.SingleElementInSortedArray.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "BinarySearch.MinimumInRoatedSortedArray.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "BinarySearch.SearchInSortedArrayTwo.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "BinarySearch.SearchInSortedArrayOne.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "BinarySearch.FirstAndLastOccurenceSorted.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.Medium.ReverseEveryString.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.Medium.SumOfBeauty.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.Medium.LongestPalindrome.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.LongestPalindrome.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "bruteForce",
-            "request": "launch",
-            "mainClass": "String.CountKDifferent.bruteForce",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "indexTwo",
-            "request": "launch",
-            "mainClass": "String.CountKDifferent.indexTwo",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.CountKDifferent.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.Medium.StringtoInt.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "BinarySearch.lastOccurenceSortedArray.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "BinarySearch.FloorAndCeil.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.Medium.RomanToInteger.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.Medium.MaxNestingDepth.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.Medium.SortCharaFrequency.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "BinarySearch.SearchInsertPosition.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "queue",
-            "request": "launch",
-            "mainClass": "String.RotateString.queue",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.RotateString.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.largestOddNumber.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.ReverseWordString.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "index",
-            "request": "launch",
-            "mainClass": "String.RemoveOuterMostParenthese.index",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "upperBound",
-            "request": "launch",
-            "mainClass": "BinarySearch.UpperBound.upperBound",
-            "projectName": "Intuition-Builder_d478e93e"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "lowerBound",
-            "request": "launch",
-            "mainClass": "BinarySearch.LowerBound.lowerBound",
-            "projectName": "Intuition-Builder_d478e93e"
-        }
-    ]
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug SST",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/sst",
+      "runtimeArgs": ["dev", "--increase-timeout"],
+      "console": "integratedTerminal",
+      "skipFiles": ["<node_internals>/**"],
+      // sourceMapRenames helps with the loading spinner when debugging and viewing local variables
+      "sourceMapRenames": false,
+      "env": {
+        "AWS_PROFILE": "flo-ct-flo360"
+      }
+    },
+    {
+      "name": "Debug Tests - Unit",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/sst",
+      "runtimeArgs": ["bind", "yarn", "\"jest\"", "\"--watch\"", "\"--config\"", "\"./jest.unit.config.cjs\"", "\"${input:scopeTestsFileName}\""],
+      "console": "integratedTerminal",
+      "skipFiles": ["<node_internals>/**"],
+      "env": {
+        "AWS_PROFILE": "flo-ct-flo360"
+      },
+    },
+    {
+      "name": "Debug Tests - E2E",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/sst",
+      "runtimeArgs": ["bind", "yarn", "\"vitest\"", "\"--config\"", "\"./vitest.e2e.config.ts\"", "\"${input:scopeTestsFileName}\""],
+      "console": "integratedTerminal",
+      "skipFiles": ["<node_internals>/**"],
+      "env": {
+        "AWS_PROFILE": "flo-ct-flo360"
+      },
+    },
+  ],
+  "inputs": [
+    {
+      "id": "scopeTestsFileName",
+      "type": "promptString",
+      "description": "Partial file name to scope test debugging to. ex. arena. Leave blank to run all tests.",
+    }
+  ]
 }
